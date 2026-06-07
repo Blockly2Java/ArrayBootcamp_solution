@@ -125,7 +125,7 @@
         "y": 308,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"String[] arr\" varid=\"_~qm%BF%~U`$5-w{[!}9\"></arg></mutation>",
         "fields": {
-          "NAME": "aufgabe3"
+          "NAME": "String aufgabe3"
         },
         "inputs": {
           "RETURN": {
@@ -176,7 +176,7 @@
         "y": 439,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"int[] arr\" varid=\"W8_qiK8R!yF665s]]!{P\"></arg></mutation>",
         "fields": {
-          "NAME": "aufgabe4"
+          "NAME": "int aufgabe4"
         },
         "inputs": {
           "RETURN": {
@@ -1005,11 +1005,6 @@
     {
       "name": "i",
       "id": "=DCTBEdL8xuAejb1qOQ:",
-      "type": "local"
-    },
-    {
-      "name": "j",
-      "id": "4DMq`Gi+u:)Z!~#GEu`D",
       "type": "local"
     },
     {

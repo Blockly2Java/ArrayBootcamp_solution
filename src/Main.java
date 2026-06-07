@@ -30,11 +30,11 @@ public class Main {
         return arr2;
     }
 
-    public static Object aufgabe3(String[] arr) {
+    public static String aufgabe3(String[] arr) {
         return arr[0];
     }
 
-    public static Object aufgabe4(int[] arr) {
+    public static int aufgabe4(int[] arr) {
         return arr[arr.length - 1];
     }
 
