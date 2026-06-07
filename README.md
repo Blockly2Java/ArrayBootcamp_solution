@@ -1,0 +1,1 @@
+Zur Reduktion von Redundanz befindet sich die Aufgabenstellung nur im Vorlage-Repository.
