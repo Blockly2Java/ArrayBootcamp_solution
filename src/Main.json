@@ -434,10 +434,12 @@
                                   },
                                   "AT": {
                                     "block": {
-                                      "type": "math_number",
-                                      "id": ")94c3oq-[q1+9rrhBBro",
+                                      "type": "java_local_var_get",
+                                      "id": "%~H6FLD(;9,^iIl-hN{m",
                                       "fields": {
-                                        "NUM": 0
+                                        "VAR": {
+                                          "id": "=DCTBEdL8xuAejb1qOQ:"
+                                        }
                                       }
                                     }
                                   }
@@ -977,11 +979,6 @@
     ]
   },
   "variables": [
-    {
-      "name": "double[] arr",
-      "id": "E*(bdV0:fDu8fBdHqZV0",
-      "type": "param"
-    },
     {
       "name": "int[] arr",
       "id": "Gs/!r}y*[3tR7-[^Pa+{",
